@@ -8,7 +8,7 @@ import type { LinkItem } from '@/types/links.types';
 export const LINKS: LinkItem[] = [
   {
     label: '💬 Fale Comigo no WhatsApp',
-    href: 'https://wa.me/5511952864971?text=Olá%20Lucas!%20Quero%20um%20site%20institucional%20de%20alta%20conversão.',
+    href: 'https://wa.me/551152864971?text=Olá%20Lucas!%20Quero%20um%20site%20institucional%20de%20alta%20conversão.',
     external: true,
     icon: 'whatsapp',
     ariaLabel: 'Fale comigo via WhatsApp comercial',
